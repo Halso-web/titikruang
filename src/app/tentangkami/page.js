@@ -399,10 +399,10 @@ export default function TentangKami() {
                 <span>Dibina oleh</span>
                 <img src="/Logo_of_Ministry_of_Education_and_Culture_of_Republic_of_Indonesia.svg.webp"  className="h-10" />
                 <img src="/LOGO UNAIR BIRU.png" className="h-10" />
-                <img src="/logo Diktisaintek berdampak_horizontal Logo.png" className="h-10" />
+                <img src="/Logo Diktisaintek Berdampak_Horizontal Logo.png" className="h-10" />
                 <img src="/Logo PKM - BG.png" className="h-10" />
-                <img src="/LOGO Belmawa Bersinergi - Warna.png" className="h-20" />
-                <img src="/LOGO fisip.jpg" className="h-10" />
+                <img src="/Logo Belmawa Bersinergi - Warna.png" className="h-20" />
+                <img src="/Logo fisip.jpg" className="h-10" />
                 <img src="/LOGONEW_FTMM_forDarkBG-Colour (1).png" className="h-8" />
               </div>
             </div>

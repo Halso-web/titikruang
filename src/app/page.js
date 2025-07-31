@@ -8,7 +8,6 @@ import Lottie from 'lottie-react';
 import animationData from '../animations/hero-animation.json';
 import { animateScroll as scroll } from 'react-scroll';
 import Link from 'next/link';
-import HelpBot from "../components/HelpBot";
 import { FaEnvelope, FaPhoneAlt, FaWhatsapp, FaInstagram, FaFacebook, FaTwitter, FaYoutube, FaLinkedin, FaTiktok } from 'react-icons/fa';
 
 

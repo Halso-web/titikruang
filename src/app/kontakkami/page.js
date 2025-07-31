@@ -358,7 +358,6 @@ export default function KontakKami() {
              <button onClick={() => scroll.scrollToTop()} className="fixed bottom-20 right-6 z-[99] bg-[#F2780C] text-white p-3 rounded-full shadow-lg hover:bg-[#F25050] z-50" aria-label="Back to Top">
                ⬆️
              </button>
-             <HelpBot />
            </div>
          );
        }
